@@ -1,0 +1,1 @@
+# unity-testrunner-playmode-avoid-compile-error
